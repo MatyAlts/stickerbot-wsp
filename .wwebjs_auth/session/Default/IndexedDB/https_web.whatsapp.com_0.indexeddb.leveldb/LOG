@@ -1,0 +1,5 @@
+2022/10/07-15:03:35.942 2e18 Creating DB C:\Users\Maty\Documents\StickerBot\bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/10/07-15:03:35.945 2e18 Reusing MANIFEST C:\Users\Maty\Documents\StickerBot\bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/07-15:03:53.179 3498 Level-0 table #5: started
+2022/10/07-15:03:53.215 3498 Level-0 table #5: 1138258 bytes OK
+2022/10/07-15:03:53.215 3498 Delete type=0 #3

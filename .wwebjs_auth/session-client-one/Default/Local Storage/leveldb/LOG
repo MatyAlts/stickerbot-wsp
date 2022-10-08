@@ -1,0 +1,14 @@
+2022/10/07-22:48:28.166 3a74 Reusing MANIFEST C:\Users\Maty\Documents\StickerBot\bot\.wwebjs_auth\session-client-one\Default\Local Storage\leveldb/MANIFEST-000001
+2022/10/07-22:48:28.166 3a74 Recovering log #14
+2022/10/07-22:48:28.167 3a74 Reusing old log C:\Users\Maty\Documents\StickerBot\bot\.wwebjs_auth\session-client-one\Default\Local Storage\leveldb/000014.log 
+2022/10/07-22:50:28.565 4584 Level-0 table #17: started
+2022/10/07-22:50:28.604 4584 Level-0 table #17: 11107 bytes OK
+2022/10/07-22:50:28.605 4584 Delete type=0 #14
+2022/10/07-22:50:28.605 104 Compacting 4@0 + 0@1 files
+2022/10/07-22:50:28.608 104 Generated table #18@0: 73 keys, 17921 bytes
+2022/10/07-22:50:28.608 104 Compacted 4@0 + 0@1 files => 17921 bytes
+2022/10/07-22:50:28.608 104 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/10/07-22:50:28.608 104 Delete type=2 #7
+2022/10/07-22:50:28.608 104 Delete type=2 #10
+2022/10/07-22:50:28.608 104 Delete type=2 #13
+2022/10/07-22:50:28.609 104 Delete type=2 #17

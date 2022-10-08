@@ -1,0 +1,38 @@
+2022/10/07-22:47:02.299 14e4 Reusing MANIFEST C:\Users\Maty\Documents\StickerBot\bot\.wwebjs_auth\session-client-one\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/07-22:47:02.301 14e4 Recovering log #5519
+2022/10/07-22:47:02.307 14e4 Reusing old log C:\Users\Maty\Documents\StickerBot\bot\.wwebjs_auth\session-client-one\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/005519.log 
+2022/10/07-22:47:18.541 55e8 Level-0 table #5536: started
+2022/10/07-22:47:18.563 55e8 Level-0 table #5536: 1124836 bytes OK
+2022/10/07-22:47:18.563 55e8 Delete type=0 #5519
+2022/10/07-22:47:18.571 55e8 Compacting 1@1 + 1@2 files
+2022/10/07-22:47:18.605 55e8 Generated table #5537@1: 13474 keys, 791305 bytes
+2022/10/07-22:47:18.613 55e8 Generated table #5538@1: 3620 keys, 54228 bytes
+2022/10/07-22:47:18.613 55e8 Compacted 1@1 + 1@2 files => 845533 bytes
+2022/10/07-22:47:18.614 55e8 compacted to: files[ 0 0 2 13 0 0 0 ]
+2022/10/07-22:47:18.631 40e0 Compacting 1@2 + 10@3 files
+2022/10/07-22:47:18.726 40e0 Generated table #5539@2: 27886 keys, 2236350 bytes
+2022/10/07-22:47:18.789 40e0 Generated table #5540@2: 28984 keys, 2242690 bytes
+2022/10/07-22:47:18.861 40e0 Generated table #5541@2: 47777 keys, 2338649 bytes
+2022/10/07-22:47:18.893 40e0 Generated table #5542@2: 4223 keys, 2167277 bytes
+2022/10/07-22:47:18.920 40e0 Generated table #5543@2: 2610 keys, 2154112 bytes
+2022/10/07-22:47:18.983 40e0 Generated table #5544@2: 20692 keys, 2242475 bytes
+2022/10/07-22:47:19.051 40e0 Generated table #5545@2: 26705 keys, 2221101 bytes
+2022/10/07-22:47:19.078 40e0 Generated table #5546@2: 3816 keys, 2124337 bytes
+2022/10/07-22:47:19.162 40e0 Generated table #5547@2: 85778 keys, 2229244 bytes
+2022/10/07-22:47:19.260 40e0 Generated table #5548@2: 116412 keys, 2272255 bytes
+2022/10/07-22:47:19.278 40e0 Generated table #5549@2: 18816 keys, 368769 bytes
+2022/10/07-22:47:19.278 40e0 Compacted 1@2 + 10@3 files => 22597259 bytes
+2022/10/07-22:47:19.278 40e0 compacted to: files[ 0 0 1 14 0 0 0 ]
+2022/10/07-22:47:19.278 40e0 Delete type=2 #5522
+2022/10/07-22:47:19.278 40e0 Delete type=2 #5523
+2022/10/07-22:47:19.278 40e0 Delete type=2 #5524
+2022/10/07-22:47:19.278 40e0 Delete type=2 #5525
+2022/10/07-22:47:19.278 40e0 Delete type=2 #5526
+2022/10/07-22:47:19.278 40e0 Delete type=2 #5527
+2022/10/07-22:47:19.278 40e0 Delete type=2 #5528
+2022/10/07-22:47:19.278 40e0 Delete type=2 #5529
+2022/10/07-22:47:19.278 40e0 Delete type=2 #5530
+2022/10/07-22:47:19.278 40e0 Delete type=2 #5531
+2022/10/07-22:47:19.278 40e0 Delete type=2 #5532
+2022/10/07-22:47:19.279 40e0 Delete type=2 #5536
+2022/10/07-22:47:19.279 40e0 Delete type=2 #5537
