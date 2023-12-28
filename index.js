@@ -58,36 +58,36 @@ client.on("ready", () => {
 
     send_message.map(value => {
         const chatId = value +"@c.us"
-        message = "Prueba 1"
+        message = "prueba 1"
         client.sendMessage(chatId,message);
 })})
 
 client.on('message', msg => {
-    if (msg.body == 'tonga'){
+    if (msg.body == 'test'){
         var t_value = Math.floor(Math.random() * 7);
         if(t_value === 0){
-        msg.reply(MessageMedia.fromFilePath(filePath = './tonga.jpg'))
+        msg.reply("random 1")
     }
     else if (t_value === 1){
-        msg.reply(MessageMedia.fromFilePath(filePath = './tonga2.jpg'))
+        msg.reply("random 2")
     }
     else if (t_value === 2){
-        msg.reply(MessageMedia.fromFilePath(filePath = './tonga3.jpeg'))
+        msg.reply("random 3")
     }
     else if (t_value === 3){
-        msg.reply(MessageMedia.fromFilePath(filePath = './tonga4.jpeg'))
+            msg.reply("random 4")
     }
     else if (t_value === 4){
-        msg.reply(MessageMedia.fromFilePath(filePath = './tonga5.jpeg'))
+            msg.reply("random 5")
     }
     else if (t_value === 5){
-        msg.reply(MessageMedia.fromFilePath(filePath = './tonga6.jpeg'))
+            msg.reply("random 6")
     }
     else if (t_value === 6){
-        msg.reply(MessageMedia.fromFilePath(filePath = './tonga7.jpeg'))
+            msg.reply("random 7")
     }
     else if (t_value === 7){
-        msg.reply(MessageMedia.fromFilePath(filePath = './tonga8.jpeg'))
+            msg.reply("random 8")
     }
     }
     
